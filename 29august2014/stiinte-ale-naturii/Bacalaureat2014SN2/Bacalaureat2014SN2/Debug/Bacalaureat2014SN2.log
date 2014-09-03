@@ -1,0 +1,13 @@
+﻿Build started 03.09.2014 21:02:11.
+     1>Project "c:\Users\Andrei\documents\visual studio 2013\Projects\Bacalaureat2014SN2\Bacalaureat2014SN2\Bacalaureat2014SN2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ex3.cpp
+         ex3.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\andrei\documents\visual studio 2013\Projects\Bacalaureat2014SN2\Debug\Bacalaureat2014SN2_II3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\andrei\documents\visual studio 2013\Projects\Bacalaureat2014SN2\Debug\Bacalaureat2014SN2_II3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\andrei\documents\visual studio 2013\Projects\Bacalaureat2014SN2\Debug\Bacalaureat2014SN2_II3.lib" /MACHINE:X86 Debug\ex3.obj
+         Bacalaureat2014SN2.vcxproj -> c:\users\andrei\documents\visual studio 2013\Projects\Bacalaureat2014SN2\Debug\Bacalaureat2014SN2_II3.exe
+     1>Done Building Project "c:\Users\Andrei\documents\visual studio 2013\Projects\Bacalaureat2014SN2\Bacalaureat2014SN2\Bacalaureat2014SN2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.03
