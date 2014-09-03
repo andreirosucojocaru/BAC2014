@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bacalaureat2014MI2_I2d", "Bacalaureat2014MI2\Bacalaureat2014MI2.vcxproj", "{8D10CB0C-D670-4A78-9DD4-220B3FBDAFF1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bacalaureat2014MI2_II5", "Bacalaureat2014MI2_II5\Bacalaureat2014MI2_II5.vcxproj", "{A3016482-EFC8-4DE4-A2D5-C8A4B9F3B435}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bacalaureat2014MI2_III3", "Bacalaureat2014MI2_III3\Bacalaureat2014MI2_III3.vcxproj", "{97C629CE-BAE1-4F3C-97DF-114BDE5D214C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bacalaureat2014MI2_III4", "Bacalaureat2014MI2_III4\Bacalaureat2014MI2_III4.vcxproj", "{69705B3F-45B4-464F-887B-03298034E19A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D10CB0C-D670-4A78-9DD4-220B3FBDAFF1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8D10CB0C-D670-4A78-9DD4-220B3FBDAFF1}.Debug|Win32.Build.0 = Debug|Win32
+		{8D10CB0C-D670-4A78-9DD4-220B3FBDAFF1}.Release|Win32.ActiveCfg = Release|Win32
+		{8D10CB0C-D670-4A78-9DD4-220B3FBDAFF1}.Release|Win32.Build.0 = Release|Win32
+		{A3016482-EFC8-4DE4-A2D5-C8A4B9F3B435}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3016482-EFC8-4DE4-A2D5-C8A4B9F3B435}.Debug|Win32.Build.0 = Debug|Win32
+		{A3016482-EFC8-4DE4-A2D5-C8A4B9F3B435}.Release|Win32.ActiveCfg = Release|Win32
+		{A3016482-EFC8-4DE4-A2D5-C8A4B9F3B435}.Release|Win32.Build.0 = Release|Win32
+		{97C629CE-BAE1-4F3C-97DF-114BDE5D214C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{97C629CE-BAE1-4F3C-97DF-114BDE5D214C}.Debug|Win32.Build.0 = Debug|Win32
+		{97C629CE-BAE1-4F3C-97DF-114BDE5D214C}.Release|Win32.ActiveCfg = Release|Win32
+		{97C629CE-BAE1-4F3C-97DF-114BDE5D214C}.Release|Win32.Build.0 = Release|Win32
+		{69705B3F-45B4-464F-887B-03298034E19A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{69705B3F-45B4-464F-887B-03298034E19A}.Debug|Win32.Build.0 = Debug|Win32
+		{69705B3F-45B4-464F-887B-03298034E19A}.Release|Win32.ActiveCfg = Release|Win32
+		{69705B3F-45B4-464F-887B-03298034E19A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

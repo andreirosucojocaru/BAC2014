@@ -1,0 +1,14 @@
+﻿Build started 03.09.2014 13:52:14.
+     1>Project "c:\Users\Andrei\documents\visual studio 2013\Projects\Bacalaureat2014MI2\Bacalaureat2014MI2\Bacalaureat2014MI2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ex2d.cpp
+         ex2d.cpp
+     1>c:\users\andrei\documents\visual studio 2013\projects\bacalaureat2014mi2\bacalaureat2014mi2\ex2d.cpp(11): error C2065: 'c' : undeclared identifier
+     1>c:\users\andrei\documents\visual studio 2013\projects\bacalaureat2014mi2\bacalaureat2014mi2\ex2d.cpp(13): error C2065: 'c' : undeclared identifier
+     1>c:\users\andrei\documents\visual studio 2013\projects\bacalaureat2014mi2\bacalaureat2014mi2\ex2d.cpp(14): error C2065: 'c' : undeclared identifier
+     1>c:\users\andrei\documents\visual studio 2013\projects\bacalaureat2014mi2\bacalaureat2014mi2\ex2d.cpp(15): error C2065: 'c' : undeclared identifier
+     1>Done Building Project "c:\Users\Andrei\documents\visual studio 2013\Projects\Bacalaureat2014MI2\Bacalaureat2014MI2\Bacalaureat2014MI2.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.93
